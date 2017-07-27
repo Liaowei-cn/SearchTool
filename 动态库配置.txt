@@ -1,0 +1,23 @@
+﻿# 百度搜索
+http1 = 'https://www.baidu.com/'
+code1 = 's?wd='
+
+# 百度翻译
+http2 = 'http://fanyi.baidu.com/'
+code2 = '?aldtype=16047#en/zh/'
+
+# 论文搜索
+http3 = 'http://search.cnki.net/kns/'
+code3 = 'brief/Default_Result.aspx?code=SCDB&korder=0&sel=1&kw='
+
+# 京东搜索
+http4 = 'https://search.jd.com/'
+code4 = 'Search?enc=utf-8&keyword='
+
+# 网盘搜索
+http5 = 'http://wangpan007.com/'
+code5 = 'share/kw'
+
+# 视频搜索
+http6 = 'http://search.bilibili.com/'
+code6 = 'all?keyword='
